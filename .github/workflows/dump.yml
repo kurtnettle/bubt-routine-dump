@@ -1,0 +1,32 @@
+name: Check Routine Update
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:    
+
+permissions:
+  contents: write    
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+  
+      - name: Setting Permissions
+        run: chmod +x dump.sh
+        shell: bash
+  
+      - name: Checking for update
+        run: ./dump.sh
+        shell: bash
+      
+      - name: Commit changes
+        run: |
+          git config --local user.name 'kurtnettle'
+          git config --local user.email '${{ secrets.EMAIL }}'
+          git add .
+          git commit -am "Updated on $(date -u '+%Y-%m-%d %H:%M:%S %Z')"
+          git push
+        shell: bash
