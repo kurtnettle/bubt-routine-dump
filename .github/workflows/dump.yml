@@ -2,7 +2,7 @@ name: Check Routine Update
 
 on:
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "0 */3 * * *"
   workflow_dispatch:    
 
 permissions:
@@ -18,15 +18,18 @@ jobs:
         run: chmod +x dump.sh
         shell: bash
   
-      - name: Checking for update
-        run: ./dump.sh
+      - name: updating class routines (bi-sem)
+        run: ./dump.sh "update-bi"
         shell: bash
-      
+
+      - name: updating term exam routines
+        run: ./dump.sh "update-term"
+        shell: bash      
+
+      - name: updating supplementary exam routines
+        run: ./dump.sh "update-suppli"
+        shell: bash      
+
       - name: Commit changes
-        run: |
-          git config --local user.name 'kurtnettle'
-          git config --local user.email '${{ secrets.EMAIL }}'
-          git add .
-          git commit -am "Updated on $(date -u '+%Y-%m-%d %H:%M:%S %Z')"
-          git push
+        run: ./dump.sh "push"
         shell: bash
