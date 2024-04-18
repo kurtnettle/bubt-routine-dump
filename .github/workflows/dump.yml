@@ -2,7 +2,7 @@ name: Check Routine Update
 
 on:
   schedule:
-    - cron: "0 */3 * * *"
+    - cron: "0 */2 * * *"
   workflow_dispatch:    
 
 permissions:
@@ -15,7 +15,11 @@ jobs:
       - uses: actions/checkout@v3
   
       - name: Setting Permissions
-        run: chmod +x dump.sh
+        run: |
+          chmod +x dump.sh
+          chmod +x "bin/htmlq"
+          chmod +x "bin/url-parser"
+          chmod +x "bin/xidel"
         shell: bash
   
       - name: updating class routines (bi-sem)
