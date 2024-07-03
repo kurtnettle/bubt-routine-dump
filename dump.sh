@@ -22,7 +22,7 @@ rt_supli="supli"
 # ~~~~      ~~~~
 
 # ~~~~ xpath exprs ~~~~
-bisem_cls_expr="//div[@id='Bi_Class_Routine']//table//tbody//tr"
+bisem_cls_expr="//div[@id='accordionClassRoutine']//table//tbody//tr"
 trisem_cls_expr="//div[@id='Tri_Class_Routine']//table//tbody//tr"
 exam_expr="//div[@id='Exam_Routine']//table//tbody//tr"
 suppli_expr="//div[@id='Sup_Exam_Routine']//table//tbody//tr"
