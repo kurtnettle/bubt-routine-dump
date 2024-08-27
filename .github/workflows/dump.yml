@@ -26,13 +26,13 @@ jobs:
         run: ./dump.sh "update-bi"
         shell: bash
 
-      - name: updating term exam routines
-        run: ./dump.sh "update-term"
-        shell: bash      
+      # - name: updating term exam routines
+      #   run: ./dump.sh "update-term"
+      #   shell: bash      
 
-      - name: updating supplementary exam routines
-        run: ./dump.sh "update-suppli"
-        shell: bash      
+      # - name: updating supplementary exam routines
+      #   run: ./dump.sh "update-suppli"
+      #   shell: bash      
 
       - name: Commit changes
         run: ./dump.sh "push"
