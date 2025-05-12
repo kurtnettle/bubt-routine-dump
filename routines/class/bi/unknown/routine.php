@@ -41,6 +41,8 @@
 		<td align="center" colspan="3">
 			<img style="display: inline-block; line-height: 70px; height: 70px;" src="../../../global_file/gazo/bubt_logo.png" />
 			<h2 style="display: inline-block; line-height: 60px; margin: 0; vertical-align: top; padding-left: 20px; font-size: 22px;">Bangladesh University of Business & Technology (BUBT)</h2>
+			
+			<p> Room[4-digit number, the first digit represent the building] <br>[<b>Building-2:</b> Martyr Sujan Mahmud Building] [<b>Building-3:</b> Martyr Tahmid Abdullah Building] </p>
 		</td>  
 	</tr>
 	<tr> 
@@ -48,11 +50,11 @@
 			<strong>Program: </strong> M.Sc in Economics <br /> 
 		</td>
 		<td align="center" >
-			<strong>Intake: </strong> 50  -  1			
+			<strong>Intake: </strong> 51  -  1 
 			<br />
 		</td>
 		<td align="right">
-			<strong>Semester: </strong> Fall, 2024 <br />
+			<strong>Semester: </strong> Spring, 2025 <br />
 		</td>
 	</tr>
 </table>
@@ -71,25 +73,25 @@
 			</tr>
 	<tr>
 		<th>SAT</th>
-		<td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style='background: #fff ;'> <strong>ECO 5201</strong><br><strong>FC:</strong> AWR   <br><strong>B:</strong> 1 &rArr; <strong>R:</strong> 702     </td><td style='background: #fff ;'> <strong>ECO 5201</strong><br><strong>FC:</strong> AWR   <br><strong>B:</strong> 1 &rArr; <strong>R:</strong> 702     </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td>	</tr>
+		<td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td>	</tr>
 	<tr>
 		<th>SUN</th>
-		<td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td>	</tr>
+		<td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style='background: #fff ;'> <strong>ECO 5102</strong><br><strong>FC:</strong> SUI   <br><strong>R:</strong> 1902     </td><td style='background: #fff ;'> <strong>ECO 5102</strong><br><strong>FC:</strong> SUI   <br><strong>R:</strong> 1902     </td>	</tr>
 	<tr>
 		<th>MON</th>
-		<td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td>	</tr>
+		<td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style='background: #fff ;'> <strong>ECO 5101</strong><br><strong>FC:</strong> TS   <br><strong>R:</strong> 1903     </td><td style='background: #fff ;'> <strong>ECO 5101</strong><br><strong>FC:</strong> TS   <br><strong>R:</strong> 1903     </td>	</tr>
 	<tr>
 		<th>TUE</th>
-		<td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style='background: #fff ;'> <strong>ECO 5304</strong><br><strong>FC:</strong> AWR   <br><strong>B:</strong> 1 &rArr; <strong>R:</strong> 702     </td><td style='background: #fff ;'> <strong>ECO 5304</strong><br><strong>FC:</strong> AWR   <br><strong>B:</strong> 1 &rArr; <strong>R:</strong> 702     </td>	</tr>
+		<td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style='background: #fff ;'> <strong>ECO 5306</strong><br><strong>FC:</strong> MAHI   <br><strong>R:</strong> 1702     </td><td style='background: #fff ;'> <strong>ECO 5306</strong><br><strong>FC:</strong> MAHI   <br><strong>R:</strong> 1702     </td>	</tr>
 	<tr>
 		<th>WED</th>
-		<td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style='background: #fff ;'> <strong>ECO 5103</strong><br><strong>FC:</strong> AI   <br><strong>B:</strong> 1 &rArr; <strong>R:</strong> 702     </td><td style='background: #fff ;'> <strong>ECO 5103</strong><br><strong>FC:</strong> AI   <br><strong>B:</strong> 1 &rArr; <strong>R:</strong> 702     </td>	</tr>
+		<td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td>	</tr>
 	<tr>
 		<th>THR</th>
 		<td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td>	</tr>
 	<tr>
 	<th>FRI</th>
-	<td style='background: #fff ;'> <strong>ECO 5101</strong><br><strong>FC:</strong> MHN   <br><strong>B:</strong> 1 &rArr; <strong>R:</strong> 702     </td><td style='background: #fff ;'> <strong>ECO 5101</strong><br><strong>FC:</strong> MHN   <br><strong>B:</strong> 1 &rArr; <strong>R:</strong> 702     </td><td style='background: #fff ;'> <strong>ECO 5104</strong><br><strong>FC:</strong> MHN   <br><strong>B:</strong> 1 &rArr; <strong>R:</strong> 702     </td><td style='background: #fff ;'> <strong>ECO 5104</strong><br><strong>FC:</strong> MHN   <br><strong>B:</strong> 1 &rArr; <strong>R:</strong> 702     </td><td style="background: #FFF ;"> </td><td style="background: #FFF ;"> </td><td style="background: #FFF ;"> </td><td style="background: #FFF ;"> </td><td style="background: #FFF ;"> </td>	</tr>
+	<td style="background: #FFF ;"> </td><td style="background: #FFF ;"> </td><td style="background: #FFF ;"> </td><td style="background: #FFF ;"> </td><td style='background: #fff ;'> <strong>ECO 5307</strong><br><strong>FC:</strong> PMMA   <br><strong>R:</strong> 1702     </td><td style='background: #fff ;'> <strong>ECO 5307</strong><br><strong>FC:</strong> PMMA   <br><strong>R:</strong> 1702     </td><td style="background: #FFF ;"> </td><td style="background: #FFF ;"> </td><td style="background: #FFF ;"> </td>	</tr>
 </table>
 <table class="tb">
     <tr>
@@ -102,36 +104,29 @@
     <tr>
         <td>ECO 5101</td>
         <td>Advanced Microeconomic Theory I</td>
-        <td>MHN</td>
-        <td>Md. Mahmudul Hassan</td> 
+        <td>TS</td>
+        <td>Tasnim Sultana</td> 
     </tr>
                 
     <tr>
-        <td>ECO 5103</td>
-        <td>Advanced Econometrics</td>
-        <td>AI</td>
-        <td>Md. Aminul Islam</td> 
+        <td>ECO 5102</td>
+        <td>Advanced Macroeconomic Theory II</td>
+        <td>SUI</td>
+        <td>Suhana Islam</td> 
     </tr>
                 
     <tr>
-        <td>ECO 5104</td>
-        <td>Advanced Development Economics</td>
-        <td>MHN</td>
-        <td>Md. Mahmudul Hassan</td> 
+        <td>ECO 5306</td>
+        <td>International Economics Institution</td>
+        <td>MAHI</td>
+        <td>Mahinoor Akter</td> 
     </tr>
                 
     <tr>
-        <td>ECO 5201</td>
-        <td>Advanced Microeconomic Theory II</td>
-        <td>AWR</td>
-        <td>Md. Anwar Hossen</td> 
-    </tr>
-                
-    <tr>
-        <td>ECO 5304</td>
-        <td>International Financial Management</td>
-        <td>AWR</td>
-        <td>Md. Anwar Hossen</td> 
+        <td>ECO 5307</td>
+        <td>Contemporary Issues in World Economics</td>
+        <td>PMMA</td>
+        <td>Prof. Dr. Muhammad Mahboob Ali</td> 
     </tr>
         </table>
 
@@ -184,6 +179,8 @@
 		<td align="center" colspan="3">
 			<img style="display: inline-block; line-height: 70px; height: 70px;" src="../../../global_file/gazo/bubt_logo.png" />
 			<h2 style="display: inline-block; line-height: 60px; margin: 0; vertical-align: top; padding-left: 20px; font-size: 22px;">Bangladesh University of Business & Technology (BUBT)</h2>
+			
+			<p> Room[4-digit number, the first digit represent the building] <br>[<b>Building-2:</b> Martyr Sujan Mahmud Building] [<b>Building-3:</b> Martyr Tahmid Abdullah Building] </p>
 		</td>  
 	</tr>
 	<tr> 
@@ -191,11 +188,11 @@
 			<strong>Program: </strong> M.Sc in Economics <br /> 
 		</td>
 		<td align="center" >
-			<strong>Intake: </strong> 49  -  1			
+			<strong>Intake: </strong> 50  -  1 
 			<br />
 		</td>
 		<td align="right">
-			<strong>Semester: </strong> Fall, 2024 <br />
+			<strong>Semester: </strong> Spring, 2025 <br />
 		</td>
 	</tr>
 </table>
@@ -220,13 +217,13 @@
 		<td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td>	</tr>
 	<tr>
 		<th>MON</th>
-		<td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td>	</tr>
+		<td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style='background: #fff ;'> <strong>ECO 5202</strong><br><strong>FC:</strong> TAHA   <br><strong>R:</strong> 1902     </td><td style='background: #fff ;'> <strong>ECO 5202</strong><br><strong>FC:</strong> TAHA   <br><strong>R:</strong> 1902     </td>	</tr>
 	<tr>
 		<th>TUE</th>
 		<td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td>	</tr>
 	<tr>
 		<th>WED</th>
-		<td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style='background: #fff ;'> <strong>ECO 5202</strong><br><strong>FC:</strong> AI   <br><strong>B:</strong> 1 &rArr; <strong>R:</strong> 702     </td><td style='background: #fff ;'> <strong>ECO 5202</strong><br><strong>FC:</strong> AI   <br><strong>B:</strong> 1 &rArr; <strong>R:</strong> 702     </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td>	</tr>
+		<td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td>	</tr>
 	<tr>
 		<th>THR</th>
 		<td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td>	</tr>
@@ -245,8 +242,8 @@
     <tr>
         <td>ECO 5202</td>
         <td>Advanced Macroeconomic Theory II</td>
-        <td>AI</td>
-        <td>Md. Aminul Islam</td> 
+        <td>TAHA</td>
+        <td>Tahmina Akter</td> 
     </tr>
         </table>
 
