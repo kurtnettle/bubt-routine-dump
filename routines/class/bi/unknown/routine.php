@@ -47,11 +47,11 @@
 	</tr>
 	<tr> 
 		<td align="left">
-			<strong>Program: </strong> Executive MBA <br /> 
+			<strong>Program: </strong> M.Sc in Economics <br /> 
 		</td>
 		<td align="center" >
-			<strong>Intake: </strong> 51  -  1 
-			 (Major: Marketing ) <br />
+			<strong>Intake: </strong> 52  -  1 
+			<br />
 		</td>
 		<td align="right">
 			<strong>Semester: </strong> Fall, 2025 <br />
@@ -61,31 +61,37 @@
 <table align="center" id="tableRtn" width="100%">
 	<tr>
 		<th><em>Day</em>/<em>Time</em></th>
-					<th>09:30 AM to 12:30 PM</th>
-					<th>03:00 PM to 06:00 PM</th>
-					<th>06:30 PM to 09:30 PM</th>
+					<th>08:20 AM to 09:30 AM</th>
+					<th>09:30 AM to 10:40 AM</th>
+					<th>10:40 AM to 11:50 AM</th>
+					<th>11:50 AM to 01:00 PM</th>
+					<th>03:30 PM to 04:40 PM</th>
+					<th>04:40 PM to 05:50 PM</th>
+					<th>05:50 PM to 07:00 PM</th>
+					<th>07:00 PM to 08:10 PM</th>
+					<th>08:10 PM to 09:20 PM</th>
 			</tr>
 	<tr>
 		<th>SAT</th>
-		<td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td>	</tr>
+		<td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style='background: #fff ;'> <strong>ECO 5303</strong><br><strong>FC:</strong> PMMA   <br><strong>R:</strong> 1902     </td><td style='background: #fff ;'> <strong>ECO 5303</strong><br><strong>FC:</strong> PMMA   <br><strong>R:</strong> 1902     </td><td style='background: #fff ;'> <strong>ECO 5201</strong><br><strong>FC:</strong> PMMA   <br><strong>R:</strong> 1702     </td><td style='background: #fff ;'> <strong>ECO 5201</strong><br><strong>FC:</strong> PMMA   <br><strong>R:</strong> 1702     </td><td style="background:  #FFF ;"> </td>	</tr>
 	<tr>
 		<th>SUN</th>
-		<td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style='background: #fff ;'> <strong>MKT 6301</strong><br><strong>FC:</strong> OFA   <br><strong>R:</strong> 4506     </td>	</tr>
+		<td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td>	</tr>
 	<tr>
 		<th>MON</th>
-		<td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td>	</tr>
+		<td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style='background: #fff ;'> <strong>ECO 5304</strong><br><strong>FC:</strong> AWR   <br><strong>R:</strong> 1702     </td><td style='background: #fff ;'> <strong>ECO 5304</strong><br><strong>FC:</strong> AWR   <br><strong>R:</strong> 1702     </td>	</tr>
 	<tr>
 		<th>TUE</th>
-		<td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td>	</tr>
+		<td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td>	</tr>
 	<tr>
 		<th>WED</th>
-		<td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td>	</tr>
+		<td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td>	</tr>
 	<tr>
 		<th>THR</th>
-		<td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td>	</tr>
+		<td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style="background:  #FFF ;"> </td><td style='background: #fff ;'> <strong>ECO 5104</strong><br><strong>FC:</strong> MAHI   <br><strong>R:</strong> 1702     </td><td style='background: #fff ;'> <strong>ECO 5104</strong><br><strong>FC:</strong> MAHI   <br><strong>R:</strong> 1702     </td>	</tr>
 	<tr>
 	<th>FRI</th>
-	<td style="background: #FFF ;"> </td><td style="background: #FFF ;"> </td><td style="background: #FFF ;"> </td>	</tr>
+	<td style='background: #fff ;'> <strong>ECO 5105</strong><br><strong>FC:</strong> MHN   <br><strong>R:</strong> 1702     </td><td style='background: #fff ;'> <strong>ECO 5105</strong><br><strong>FC:</strong> MHN   <br><strong>R:</strong> 1702     </td><td style="background: #FFF ;"> </td><td style="background: #FFF ;"> </td><td style="background: #FFF ;"> </td><td style="background: #FFF ;"> </td><td style="background: #FFF ;"> </td><td style="background: #FFF ;"> </td><td style="background: #FFF ;"> </td>	</tr>
 </table>
 <table class="tb">
     <tr>
@@ -96,10 +102,38 @@
     </tr>
             
     <tr>
-        <td>MKT 6301</td>
-        <td>Relationship Marketing</td>
-        <td>OFA</td>
-        <td>Omar Faruck Ansari</td> 
+        <td>ECO 5104</td>
+        <td>Advanced Development Economics</td>
+        <td>MAHI</td>
+        <td>Mahinoor Akter</td> 
+    </tr>
+                
+    <tr>
+        <td>ECO 5105</td>
+        <td>International Economics</td>
+        <td>MHN</td>
+        <td>Md. Mahmudul Hassan</td> 
+    </tr>
+                
+    <tr>
+        <td>ECO 5201</td>
+        <td>Advanced Microeconomic Theory II</td>
+        <td>PMMA</td>
+        <td>Prof. Dr. Muhammad Mahboob Ali</td> 
+    </tr>
+                
+    <tr>
+        <td>ECO 5303</td>
+        <td>Research Methodology</td>
+        <td>PMMA</td>
+        <td>Prof. Dr. Muhammad Mahboob Ali</td> 
+    </tr>
+                
+    <tr>
+        <td>ECO 5304</td>
+        <td>International Financial Management</td>
+        <td>AWR</td>
+        <td>Md. Anwar Hossen</td> 
     </tr>
         </table>
 
