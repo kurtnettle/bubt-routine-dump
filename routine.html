@@ -3752,7 +3752,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <div style="padding:15px" id="Class_Routine" class="panel-collapse collapse">
                                         <div id="accordionClassRoutine" class="panel-group" role="tablist" aria-multiselectable="false"> 
                                                                                                                     
-                                                    <h2>Class Routine of Fall 2025</h2>
+                                                    <h2>Class Routine of Spring 2026</h2>
                                                     
                                                     <div class="table-responsive">
                                                     <table class="table table-bordered table-striped table-hover normal-table">
@@ -3936,10 +3936,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                               <div id="history_widget" class="col-md-3 col-lg-3 history-widget text-center">
             <div class="devs-item">
                 <div class="devs-well">
-                                        <img src="https://www.bubt.edu.bd/assets/frontend/images/1686737264_Legal_Reseaech_presentation_all_students.JPG" alt="">
-                                                            <a href="https://www.bubt.edu.bd/home/achievement_description/64">
+                                        <img src="https://www.bubt.edu.bd/assets/frontend/images/mill_3.jpg" alt="">
+                                                            <a href="https://www.bubt.edu.bd/home/achievement_description/30">
                         <p class="devs-acchievement-desc">
-                            Presentation on Legal Research                        </p>
+                            Mill Visit Activities                        </p>
                     </a>
                 </div>
             </div>
@@ -4220,7 +4220,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <p class="text-center">&copy;
                 2025 BUBT.  
                 &nbsp;&nbsp;&nbsp;&nbsp;  
-                Total Visitors: 19812140                </p>
+                Total Visitors: 19874876                </p>
         </div>
         <!-- <div  class="  devs-last-link">
             <center class="devs-center-tag">
@@ -4323,13 +4323,23 @@ $.post(
 
 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" />
 <a id="popuplink" href="#inline" style="display:none;"></a>
-<div id="inline" style="display:none; text-align:center;">
-<a href="https://convocation.bubt.edu.bd"><img src="https://www.bubt.edu.bd/assets/frontend/media/1636291158bubt-5th-convocation-2022.jpg" alt="" id="logo" style="max-width:100%; width: 700px;"></a>
-<p style="margin-bottom: 0"><a href="javascript:;" onclick="jQuery.fancybox.close();" style="margin-top: 5px; display: inline-block; background-color:#333; padding:5px 10px; color:#fff; border-radius:5px; text-decoration:none;">Close</a></p>
+<div id="inline" style="text-align:center;">
+<a href="#"><img src="https://www.bubt.edu.bd/assets/frontend/media/1767105130website-popup.jpeg" alt="" id="logo" style="width: 1000px; max-width:100%; "></a>
+<p style="display:none; margin-bottom: 0"><a href="javascript:;" onclick="jQuery.fancybox.close();" style="margin-top: 5px; display: inline-block; background-color:#333; padding:5px 10px; color:#fff; border-radius:5px; text-decoration:none;">Close</a></p>
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.js"></script>
+<style>
+.fancybox-wrap.fancybox-mobile.fancybox-type-inline.fancybox-opened{
+    width:100% !important;
+    left: 0 !important;
+    top: 200px !important;
+}
+.fancybox-wrap.fancybox-mobile.fancybox-type-inline.fancybox-opened .fancybox-inner{
+    width:100% !important;
+}
+</style>
 <script>
 $(function () {
   $('[data-toggle="tooltip"]').tooltip()
@@ -4346,8 +4356,9 @@ $(function () {
     var visited = jQuery.cookie('visited');
     if (visited == 'yes') {
          // second page load, cookie active
+        openFancybox(); // first page load, launch fancybox
     } else {
-        //openFancybox(); // first page load, launch fancybox
+        openFancybox(); // first page load, launch fancybox
     }
 
     var date = new Date();
