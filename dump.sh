@@ -102,7 +102,7 @@ function compare_routine_html() {
 #######################################
 function push_update() {
     if [ -e "$RT_FILE" ]; then
-        curl "https://bubt.edu.bd/home/routines" -so "$RT_FILE.temp"
+        curl "https://classic.bubt.edu.bd/home/routines" -so "$RT_FILE.temp"
         if [ $(compare_routine_html "$RT_FILE" "$RT_FILE.temp") = $true ]; then
             log "INFO" "Links were updated. Deleting old $RT_FILE"
             rm -f "$RT_FILE"
@@ -112,7 +112,7 @@ function push_update() {
             rm -f "$RT_FILE.temp" && log "INFO" "deleted $RT_FILE.temp" || log "ERROR" "failed to delete $RT_FILE.temp"
         fi
     else
-        curl "https://bubt.edu.bd/home/routines" -so "$RT_FILE"
+        curl "https://classic.bubt.edu.bd/home/routines" -so "$RT_FILE"
     fi    
 
     if [ $(git status --porcelain | wc -l) -eq "0" ]; then
@@ -265,7 +265,7 @@ function update_exam() {
         routine_link=$($XIDEL -se "$xpath[$row]//td[2]//a[1]/@href" $RT_FILE)
 
         if [ $(is_substr "$routine_link" "../../") = $true ];then 
-            routine_link="${routine_link/"../../"/"https://bubt.edu.bd/"}"   
+            routine_link="${routine_link/"../../"/"https://classic.bubt.edu.bd/"}"   
         fi
         
         log "INFO" "Processing Program: $program_name"
